@@ -5,5 +5,6 @@ if (isNaN(square)){
     let i = 0;
     while(i < square){
         console.log('x'.repeat(square));
+        i++
     }
 };
