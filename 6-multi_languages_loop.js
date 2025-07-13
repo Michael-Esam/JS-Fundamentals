@@ -1,4 +1,4 @@
-const lung = ["C is fun", "Pyson is cool", "JavaScript is amazing"];
+const lung = ["C is fun", "Python is cool", "JavaScript is amazing"];
 
 let i = 0;
 while ( lung.length > i){
