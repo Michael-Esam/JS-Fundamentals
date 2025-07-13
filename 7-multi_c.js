@@ -3,7 +3,7 @@ if (isNaN(x)){
     console.log("Missing number of occurrences")
 }else{
     let i = 0;
-    for( x > i ;){
+    while( x > i ){
         console.log("C is fun");
         i++;
     }
