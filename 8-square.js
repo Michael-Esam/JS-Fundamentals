@@ -4,7 +4,7 @@ if (isNaN(size)){
 }else if (size > 0){
     let i = 0;
     while (i < size){
-        console.log('x'.repeat(size));
+        console.log('X'.repeat(size));
         i++;
     }
 }
