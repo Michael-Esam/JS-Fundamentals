@@ -1,6 +1,6 @@
 const num = parseInt(process.argv[2])
 
-const factorial = (num)=>{
+function  factorial (num){
     if (isNaN(num) || num === 0){
         return 1
     }else{
